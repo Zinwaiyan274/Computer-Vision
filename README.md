@@ -1,4 +1,4 @@
-# Computer-Vision-
+# Computer-Vision
 Here, I will upload my CV related pj
 
 |      No     |  Project         |     Used Techniques        |  
